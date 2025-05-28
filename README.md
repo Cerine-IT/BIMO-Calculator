@@ -57,10 +57,10 @@ calcu.exe
   The status of relevant processor flags
 
 ## Notes
-The program uses DOS interrupts for input/output and BIOS interrupts for screen manipulation
-The interface includes a title bar, a black result screen, and colored buttons representing numbers and operations
-Negative numbers are supported in all bases
-Division by zero is detected and displays an error message
+-The program uses DOS interrupts for input/output and BIOS interrupts for screen manipulation
+-The interface includes a title bar, a black result screen, and colored buttons representing numbers and operations
+-Negative numbers are supported in all bases
+-Division by zero is detected and displays an error message
 
 ## File Structure
 calcu.asm: Main assembly source file containing all code and data
