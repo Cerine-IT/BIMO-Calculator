@@ -73,6 +73,6 @@ The program is self-contained with all necessary procedures for:
 - Result display
 
 ## Limitations
-Designed for 16-bit DOS environment
-Input numbers are limited to 16-bit values (-32768 to 32767)
-The interface is text-based with simple color attributes
+Designed for 16-bit DOS environment.
+Input numbers are limited to 16-bit values (-32768 to 32767).
+The interface is text-based with simple color attributes.
